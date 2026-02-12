@@ -10,19 +10,19 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App implements OnInit{
 
-  title = "gaurav bakare"
+  // title = "gaurav bakare"
   
 constructor(){
-  console.log("constructor is called");
+  // console.log("constructor is called");
 }
 
 ngOnInit() {
-  console.log("ngOnInit is called")    // lifecycle hook called after constructor
+  // console.log("ngOnInit is called")    // lifecycle hook called after constructor
 }
 
-changeTitle() {
-  this.title = "Rohini Bakare"
-}
+// changeTitle() {
+//   this.title = "Rohini Bakare"
+// }
 
 
 

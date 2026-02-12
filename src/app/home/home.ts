@@ -14,8 +14,8 @@ export class Home {
   ) {
   }
 
-  Navigate() {
-    this.router.navigate(['/about'])
-  }
+  // Navigate() {
+  //   this.router.navigate(['/about'])
+  // }
 
 }
